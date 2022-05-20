@@ -1,2 +1,2 @@
 # BeautyClassifier
-圖片分類模型建置
+帥哥美女圖片分類模型建置
